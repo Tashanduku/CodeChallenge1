@@ -60,9 +60,9 @@ Input:
 
 Output:  
 - Gross Salary: `60,000`  
-- PAYE: `10,733`  
-- NHIF: `1,200`  
-- NSSF: `1,080`  
-- Net Salary: `47,987`
+- PAYE: `12783.35`  
+- NHIF: `1,300`  
+- NSSF: `2,160`  
+- Net Salary: `43,756.65`
 
 ---

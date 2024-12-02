@@ -1,5 +1,5 @@
 function calculateGrade() {
-    let marks = 40;
+    let marks = 70;
    
     if (marks < 0 || marks > 100) {
         console.log("Error! Please enter a valid number between 0 and 100.");
